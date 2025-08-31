@@ -37,3 +37,8 @@ npm install
 # Inicie o projeto
 npm start ou
 npx expo start
+```
+
+# Previw do Projecto
+https://github.com/Alveshatewa/React-Native---Aplicativo-Sobre-Ayrton-Senna/issues/1#issue-3370742329
+

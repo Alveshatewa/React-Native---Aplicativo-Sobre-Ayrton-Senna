@@ -39,6 +39,6 @@ npm start ou
 npx expo start
 ```
 
-# Previw do Projecto
-https://github.com/Alveshatewa/React-Native---Aplicativo-Sobre-Ayrton-Senna/issues/1#issue-3370742329
+# Preview do Projecto
+(<img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/b2780b21-b79b-4978-8b02-8878e0c60ecf" />)
 
